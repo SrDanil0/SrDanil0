@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (https://www.linkedin.com/in/danilo-santana-338046117/)
 - 😄 Pronouns: ele/ Dele
-- ⚡ Fun fact: Não gostava de programação, achava q era modinha, mas me apaixonei e hoje estou estudando e amando.
+- ⚡ Fun fact: Sou calmo, mas tenho pouca paciencia kkk
 
 <!---
 SrDanil0/SrDanil0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
