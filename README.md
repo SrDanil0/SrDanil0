@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning Na alura
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [(https://www.linkedin.com/in/danilo-santana-338046117/)´]
+- 📫 How to reach me (https://www.linkedin.com/in/danilo-santana-338046117/)
 - 😄 Pronouns: ele/ Dele
 - ⚡ Fun fact: Não gostava de programação, achava q era modinha, mas me apaixonei e hoje estou estudando e amando.
 
